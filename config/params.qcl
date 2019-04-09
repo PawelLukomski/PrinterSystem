@@ -1,0 +1,15 @@
+mainParams
+    pageName:"PrinterSystem"
+
+subParams
+    dyplom:"DCP9020CDW"
+    list:"Brother-DCP-9020CDW2"
+    invoices:"Brother-DCP-9020CDW3"
+    labels:"Zebra"
+
+navParams
+    Home:"/Home/"
+    Drukuj:"/Print"
+
+outTemplate
+    nothing:"nothing"
